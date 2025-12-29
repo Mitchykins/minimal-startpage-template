@@ -17,3 +17,7 @@ Template for a minimalistic startpage with a search bar, clock, and space for a 
 
 ## See also
 Looking for something more colorful and with more features? Check out [Neon Startpage](https://github.com/pedro-pablo/neon-startpage)!
+
+## Changes from original
+* Darker
+* Date is MM/DD/YYYY instead of DD/MM/YYYY
